@@ -1,0 +1,452 @@
+[
+  {
+    "id": "1",
+    "slug": "butter-chicken",
+    "title": "Butter Chicken",
+    "description": "A rich, creamy North Indian curry with fall-apart tender chicken in a velvety spiced tomato-butter sauce. The one we make when we want something that feels like a warm hug.",
+    "coverImage": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=800&q=80",
+    "cuisine": "Indian",
+    "dietTags": ["gluten-free"],
+    "difficulty": "medium",
+    "spiceLevel": "medium",
+    "prepTimeMin": 20,
+    "cookTimeMin": 45,
+    "totalTimeMin": 65,
+    "servings": 4,
+    "ingredients": [
+      { "item": "chicken thighs, boneless skinless", "quantity": 800, "unit": "g" },
+      { "item": "plain yogurt", "quantity": 150, "unit": "g" },
+      { "item": "lemon juice", "quantity": 2, "unit": "tbsp" },
+      { "item": "turmeric", "quantity": 1, "unit": "tsp" },
+      { "item": "red chilli powder", "quantity": 1.5, "unit": "tsp" },
+      { "item": "garam masala", "quantity": 2, "unit": "tsp" },
+      { "item": "salt", "quantity": 1.5, "unit": "tsp" },
+      { "item": "butter", "quantity": 60, "unit": "g" },
+      { "item": "oil", "quantity": 2, "unit": "tbsp" },
+      { "item": "onion, finely chopped", "quantity": 2, "unit": "medium" },
+      { "item": "garlic cloves, minced", "quantity": 6, "unit": "cloves" },
+      { "item": "fresh ginger, grated", "quantity": 2, "unit": "tsp" },
+      { "item": "tomato passata", "quantity": 400, "unit": "ml" },
+      { "item": "heavy cream", "quantity": 150, "unit": "ml" },
+      { "item": "kasuri methi (dried fenugreek leaves)", "quantity": 1, "unit": "tbsp", "notes": "crush between palms before adding" },
+      { "item": "sugar", "quantity": 1, "unit": "tsp", "notes": "balances acidity" }
+    ],
+    "steps": [
+      { "text": "Mix yogurt, lemon juice, turmeric, 1 tsp chilli powder, 1 tsp garam masala, and 1 tsp salt in a bowl. Add chicken, coat well, and marinate for at least 30 minutes (overnight if you can).", "timerSec": 1800 },
+      { "text": "Grill or pan-fry the marinated chicken on high heat until charred in spots, about 4–5 minutes per side. Don't worry about cooking through — it finishes in the sauce. Set aside.", "timerSec": 600 },
+      { "text": "In a large heavy pan, melt butter with oil over medium heat. Add onions and cook, stirring occasionally, until deep golden — about 15 minutes. Don't rush this.", "timerSec": 900 },
+      { "text": "Add garlic and ginger, cook 2 minutes until fragrant. Add remaining chilli powder and garam masala, stir for 30 seconds." },
+      { "text": "Pour in tomato passata. Simmer on medium-low for 15 minutes, stirring occasionally, until oil separates and sauce deepens in colour.", "timerSec": 900 },
+      { "text": "Let the sauce cool slightly, then blend until silky smooth. Return to the pan." },
+      { "text": "Add the chicken pieces into the sauce. Pour in the cream and stir. Simmer on low for 10 minutes until chicken is fully cooked through.", "timerSec": 600 },
+      { "text": "Crush kasuri methi between your palms and add along with sugar. Taste and adjust salt. Serve with naan or basmati rice." }
+    ],
+    "notes": {
+      "arnav": "Add a tablespoon of cashew paste to make it even creamier. The charring on the chicken is non-negotiable.",
+      "ayushi": "I like to add a tiny pinch of cardamom powder at the very end. Transforms it."
+    },
+    "createdAt": "2024-01-15T10:00:00.000Z",
+    "updatedAt": "2024-01-15T10:00:00.000Z",
+    "cookedLog": [
+      { "dateISO": "2024-01-20", "quickNote": "Made for family dinner — big hit!" },
+      { "dateISO": "2024-02-14", "quickNote": "Valentine's date night. Perfect." }
+    ],
+    "rating": 5,
+    "makeAgain": true
+  },
+  {
+    "id": "2",
+    "slug": "mango-lassi",
+    "title": "Mango Lassi",
+    "description": "Thick, cold, and intensely mango-flavoured. A 5-minute drink that tastes like a dessert. Use Alphonso mangoes when they're in season — nothing else comes close.",
+    "coverImage": "https://images.unsplash.com/photo-1570696516188-ade861b84a49?w=800&q=80",
+    "cuisine": "Indian",
+    "dietTags": ["vegetarian", "gluten-free"],
+    "difficulty": "easy",
+    "spiceLevel": "mild",
+    "prepTimeMin": 5,
+    "cookTimeMin": 0,
+    "totalTimeMin": 5,
+    "servings": 2,
+    "ingredients": [
+      { "item": "ripe mango, chopped", "quantity": 2, "unit": "large", "notes": "Alphonso if available" },
+      { "item": "full-fat yogurt", "quantity": 300, "unit": "ml" },
+      { "item": "cold milk", "quantity": 100, "unit": "ml" },
+      { "item": "sugar", "quantity": 2, "unit": "tbsp", "notes": "adjust to taste" },
+      { "item": "cardamom powder", "quantity": 0.25, "unit": "tsp" },
+      { "item": "ice cubes", "quantity": 6, "unit": "pieces" },
+      { "item": "rose water", "quantity": 1, "unit": "tsp", "notes": "optional but lovely" }
+    ],
+    "steps": [
+      { "text": "Blend mango pieces until completely smooth. If using fibrous mango, strain through a fine sieve." },
+      { "text": "Add yogurt, milk, sugar, cardamom, and ice. Blend again for 30–45 seconds until thick and frothy.", "timerSec": 45 },
+      { "text": "Taste — adjust sugar or cardamom. Add rose water if using." },
+      { "text": "Pour into tall chilled glasses. Garnish with a pinch of cardamom or a sliver of mango." }
+    ],
+    "notes": {
+      "arnav": "For a thicker shake-like consistency, skip the milk and add more yogurt.",
+      "ayushi": "Frozen mango chunks work great when fresh mangoes aren't available. Add a little less milk."
+    },
+    "createdAt": "2024-02-01T10:00:00.000Z",
+    "updatedAt": "2024-02-01T10:00:00.000Z",
+    "cookedLog": [],
+    "rating": 5,
+    "makeAgain": true
+  },
+  {
+    "id": "3",
+    "slug": "spaghetti-cacio-e-pepe",
+    "title": "Spaghetti Cacio e Pepe",
+    "description": "Rome's greatest pasta. Just three ingredients — but the technique is everything. Creamy, glossy, intensely peppery. No cream, no butter shortcuts.",
+    "coverImage": "https://images.unsplash.com/photo-1612874742237-6526221588e3?w=800&q=80",
+    "cuisine": "Italian",
+    "dietTags": ["vegetarian"],
+    "difficulty": "medium",
+    "spiceLevel": "medium",
+    "prepTimeMin": 5,
+    "cookTimeMin": 20,
+    "totalTimeMin": 25,
+    "servings": 2,
+    "ingredients": [
+      { "item": "spaghetti or tonnarelli", "quantity": 200, "unit": "g" },
+      { "item": "Pecorino Romano, finely grated", "quantity": 80, "unit": "g", "notes": "grate on the finest side of a box grater" },
+      { "item": "Parmigiano Reggiano, finely grated", "quantity": 40, "unit": "g" },
+      { "item": "whole black peppercorns", "quantity": 2, "unit": "tsp" },
+      { "item": "salt", "quantity": 1, "unit": "tbsp", "notes": "for pasta water" }
+    ],
+    "steps": [
+      { "text": "Toast peppercorns in a dry skillet over medium heat for 2 minutes until fragrant. Crack coarsely in a mortar or under a heavy pan — you want rubble, not powder.", "timerSec": 120 },
+      { "text": "Mix both cheeses together in a bowl. Add about 3 tbsp cold water and work into a thick paste. Set aside." },
+      { "text": "Boil pasta in well-salted water. Cook 2 minutes less than package directions — you want it very al dente." },
+      { "text": "While pasta cooks: toast cracked pepper in the skillet over medium heat for 1 minute. Add a ladle (about 80ml) of pasta water — it will sizzle. Let it reduce slightly.", "timerSec": 60 },
+      { "text": "Drain pasta, reserving 300ml pasta water. Add pasta to the pepper skillet and toss vigorously over low heat, adding pasta water as needed to create steam." },
+      { "text": "Remove from heat. Let the pan cool for 30 seconds (crucial — too hot and cheese seizes). Add cheese paste and toss rapidly, adding pasta water a splash at a time until you have a creamy, glossy sauce that coats every strand.", "timerSec": 30 },
+      { "text": "Plate immediately. Finish with more cracked pepper and a dusting of Pecorino. Serve at once." }
+    ],
+    "notes": {
+      "arnav": "The off-heat step is everything. I've seized the cheese so many times. Cool the pan and trust the emulsification.",
+      "ayushi": "I substitute half the Pecorino with Parmesan for a slightly milder flavour."
+    },
+    "createdAt": "2024-02-10T10:00:00.000Z",
+    "updatedAt": "2024-02-10T10:00:00.000Z",
+    "cookedLog": [
+      { "dateISO": "2024-02-15", "quickNote": "Third attempt — finally got the glossy sauce right!" }
+    ],
+    "rating": 5,
+    "makeAgain": true
+  },
+  {
+    "id": "4",
+    "slug": "chocolate-lava-cake",
+    "title": "Chocolate Lava Cake",
+    "description": "Crisp exterior, warm molten centre, rich beyond reason. Deceptively simple once you know the timing. Excellent with a scoop of vanilla ice cream.",
+    "coverImage": "https://images.unsplash.com/photo-1617805575-53c15bd3b2a6?w=800&q=80",
+    "cuisine": "French",
+    "dietTags": ["vegetarian"],
+    "difficulty": "medium",
+    "spiceLevel": "mild",
+    "prepTimeMin": 15,
+    "cookTimeMin": 12,
+    "totalTimeMin": 27,
+    "servings": 4,
+    "ingredients": [
+      { "item": "dark chocolate (70%+), chopped", "quantity": 150, "unit": "g" },
+      { "item": "unsalted butter", "quantity": 120, "unit": "g", "notes": "plus extra for greasing" },
+      { "item": "eggs", "quantity": 3, "unit": "large" },
+      { "item": "egg yolks", "quantity": 3, "unit": "yolks" },
+      { "item": "caster sugar", "quantity": 80, "unit": "g" },
+      { "item": "all-purpose flour", "quantity": 40, "unit": "g" },
+      { "item": "cocoa powder", "quantity": 1, "unit": "tbsp", "notes": "for dusting ramekins" },
+      { "item": "vanilla extract", "quantity": 1, "unit": "tsp" },
+      { "item": "flaky sea salt", "quantity": 1, "unit": "pinch" }
+    ],
+    "steps": [
+      { "text": "Preheat oven to 220°C (425°F). Generously butter 4 ramekins (175ml) and dust with cocoa powder. Tap out excess. Refrigerate ramekins while you make the batter." },
+      { "text": "Melt chocolate and butter together in a heatproof bowl over a saucepan of barely simmering water (bain-marie), stirring until smooth. Remove from heat, let cool for 5 minutes.", "timerSec": 300 },
+      { "text": "In a large bowl, whisk together eggs, egg yolks, and sugar vigorously for 2 minutes until pale and slightly thickened.", "timerSec": 120 },
+      { "text": "Fold the chocolate mixture into the egg mixture with a spatula. Sift in flour and fold until just combined — a few streaks are fine." },
+      { "text": "Stir in vanilla extract. Divide batter evenly between the prepared ramekins. At this point you can refrigerate them for up to 24 hours." },
+      { "text": "Bake for 10–12 minutes. The edges should be set and the centre should still have a slight wobble. This is the most important step — do not overbake.", "timerSec": 720 },
+      { "text": "Run a knife around the edge, place a plate on top, and flip confidently. Rest for 30 seconds, then lift the ramekin. Finish with flaky salt. Serve immediately.", "timerSec": 30 }
+    ],
+    "notes": {
+      "arnav": "I tested at 11 minutes in our oven and it's perfect. Every oven is different — test once before a dinner party.",
+      "ayushi": "A spoon of raspberry jam in the centre before baking is a game-changer."
+    },
+    "createdAt": "2024-03-01T10:00:00.000Z",
+    "updatedAt": "2024-03-01T10:00:00.000Z",
+    "cookedLog": [],
+    "rating": 5,
+    "makeAgain": true
+  },
+  {
+    "id": "5",
+    "slug": "dal-tadka",
+    "title": "Dal Tadka",
+    "description": "Dhaba-style yellow dal with a crackling ghee-and-spice tadka poured on at the end. Humble ingredients, extraordinary results. Vegan and gluten-free.",
+    "coverImage": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=800&q=80",
+    "cuisine": "Indian",
+    "dietTags": ["vegan", "gluten-free", "dairy-free"],
+    "difficulty": "easy",
+    "spiceLevel": "medium",
+    "prepTimeMin": 10,
+    "cookTimeMin": 35,
+    "totalTimeMin": 45,
+    "servings": 4,
+    "ingredients": [
+      { "item": "chana dal (split chickpeas)", "quantity": 150, "unit": "g" },
+      { "item": "toor dal (split pigeon peas)", "quantity": 100, "unit": "g" },
+      { "item": "water", "quantity": 700, "unit": "ml" },
+      { "item": "turmeric", "quantity": 0.5, "unit": "tsp" },
+      { "item": "salt", "quantity": 1.5, "unit": "tsp" },
+      { "item": "tomatoes, chopped", "quantity": 2, "unit": "medium" },
+      { "item": "ghee or neutral oil", "quantity": 3, "unit": "tbsp" },
+      { "item": "cumin seeds", "quantity": 1, "unit": "tsp" },
+      { "item": "dried red chillies", "quantity": 3, "unit": "pieces" },
+      { "item": "garlic cloves, sliced thin", "quantity": 5, "unit": "cloves" },
+      { "item": "onion, finely diced", "quantity": 1, "unit": "medium" },
+      { "item": "red chilli powder", "quantity": 1, "unit": "tsp" },
+      { "item": "coriander powder", "quantity": 1, "unit": "tsp" },
+      { "item": "fresh coriander, chopped", "quantity": 3, "unit": "tbsp" },
+      { "item": "lemon juice", "quantity": 1, "unit": "tbsp" }
+    ],
+    "steps": [
+      { "text": "Wash both dals together until water runs clear. Soak in cold water for 20 minutes if you have time.", "timerSec": 1200 },
+      { "text": "Combine drained dal, water, turmeric, and salt in a pot. Bring to a boil, skim any foam, then partially cover and simmer on medium-low for 25–30 minutes until very soft and thick.", "timerSec": 1800 },
+      { "text": "Add chopped tomatoes. Mash about half the dal with the back of a spoon for a creamy texture. Simmer 5 more minutes.", "timerSec": 300 },
+      { "text": "Make the tadka: heat ghee in a small pan over high heat. Add cumin seeds — they should crackle immediately. Add dried chillies, then garlic slices. Fry until garlic turns golden.", "timerSec": 90 },
+      { "text": "Add onion to the tadka pan. Cook over high heat for 3 minutes until softened and golden at edges. Add chilli powder and coriander powder, stir for 30 seconds.", "timerSec": 210 },
+      { "text": "Pour the hot tadka directly over the dal (it will sizzle dramatically — that's the point). Stir to combine." },
+      { "text": "Squeeze in lemon juice, stir in fresh coriander. Taste for salt. Serve with rice or roti." }
+    ],
+    "notes": {
+      "arnav": "The tadka temperature is everything. The ghee must be smoking hot when you pour it in.",
+      "ayushi": "Add a small piece of asafoetida (hing) to the tadka — about the size of a lentil. Makes the whole thing more aromatic."
+    },
+    "createdAt": "2024-03-10T10:00:00.000Z",
+    "updatedAt": "2024-03-10T10:00:00.000Z",
+    "cookedLog": [
+      { "dateISO": "2024-03-12", "quickNote": "Weeknight dinner. Fast and incredibly satisfying." }
+    ],
+    "rating": 4,
+    "makeAgain": true
+  },
+  {
+    "id": "6",
+    "slug": "classic-tiramisu",
+    "title": "Classic Tiramisu",
+    "description": "The real deal — no shortcuts. Coffee-soaked ladyfingers, pillowy mascarpone cream, bitter cocoa on top. We make this for every dinner party and it always vanishes.",
+    "coverImage": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=800&q=80",
+    "cuisine": "Italian",
+    "dietTags": ["vegetarian"],
+    "difficulty": "medium",
+    "spiceLevel": "mild",
+    "prepTimeMin": 30,
+    "cookTimeMin": 0,
+    "totalTimeMin": 270,
+    "servings": 8,
+    "ingredients": [
+      { "item": "ladyfinger biscuits (savoiardi)", "quantity": 300, "unit": "g" },
+      { "item": "mascarpone", "quantity": 500, "unit": "g", "notes": "at room temperature" },
+      { "item": "egg yolks", "quantity": 6, "unit": "yolks" },
+      { "item": "caster sugar", "quantity": 120, "unit": "g" },
+      { "item": "heavy cream", "quantity": 200, "unit": "ml", "notes": "very cold" },
+      { "item": "strong espresso, cooled", "quantity": 300, "unit": "ml" },
+      { "item": "Marsala wine or dark rum", "quantity": 2, "unit": "tbsp", "notes": "optional" },
+      { "item": "good-quality cocoa powder", "quantity": 3, "unit": "tbsp" }
+    ],
+    "steps": [
+      { "text": "Brew a strong batch of espresso and let it cool completely. Add Marsala or rum if using. Pour into a shallow bowl." },
+      { "text": "Whisk egg yolks and sugar in a heatproof bowl over a pot of barely simmering water (bain-marie). Whisk constantly for 8–10 minutes until the mixture is pale, thick, and holds a ribbon for 10 seconds when the whisk is lifted.", "timerSec": 600 },
+      { "text": "Remove from heat, whisk in mascarpone until completely smooth. Let cool to room temperature.", "timerSec": 900 },
+      { "text": "Whip the cold cream to stiff peaks in a separate bowl. Fold gently into the mascarpone mixture in three additions." },
+      { "text": "Working quickly, dip each ladyfinger in coffee for exactly 2 seconds per side — don't soak or they'll fall apart. Lay in a single layer in a 23x33cm dish.", "timerSec": 120 },
+      { "text": "Spread half the mascarpone cream evenly over the ladyfingers. Dust with a thin layer of cocoa powder." },
+      { "text": "Add a second layer of dipped ladyfingers. Top with the remaining cream, smoothing the top." },
+      { "text": "Cover tightly and refrigerate for at least 4 hours, preferably overnight. Just before serving, dust generously with cocoa powder through a fine sieve.", "timerSec": 14400 }
+    ],
+    "notes": {
+      "arnav": "The bain-marie step is critical — raw egg yolks won't achieve the same texture or food safety.",
+      "ayushi": "I add a tiny pinch of salt to the cream — it enhances the flavour dramatically. Also, the longer it sets in the fridge, the better it gets."
+    },
+    "createdAt": "2024-03-20T10:00:00.000Z",
+    "updatedAt": "2024-03-20T10:00:00.000Z",
+    "cookedLog": [
+      { "dateISO": "2024-03-25", "quickNote": "Dinner party. Made double batch. Still not enough." }
+    ],
+    "rating": 5,
+    "makeAgain": true
+  },
+  {
+    "id": "7",
+    "slug": "masala-chai",
+    "title": "Masala Chai",
+    "description": "Strong, spicy, milky chai the way it should be — brewed hard and sweetened properly. Not the watery tourist version.",
+    "coverImage": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=800&q=80",
+    "cuisine": "Indian",
+    "dietTags": ["vegetarian", "gluten-free"],
+    "difficulty": "easy",
+    "spiceLevel": "medium",
+    "prepTimeMin": 2,
+    "cookTimeMin": 8,
+    "totalTimeMin": 10,
+    "servings": 2,
+    "ingredients": [
+      { "item": "water", "quantity": 300, "unit": "ml" },
+      { "item": "whole milk", "quantity": 200, "unit": "ml" },
+      { "item": "loose-leaf Assam tea or strong CTC", "quantity": 2, "unit": "tsp" },
+      { "item": "sugar", "quantity": 2, "unit": "tsp", "notes": "adjust to taste" },
+      { "item": "fresh ginger, roughly sliced", "quantity": 1, "unit": "inch" },
+      { "item": "green cardamom pods, bruised", "quantity": 4, "unit": "pods" },
+      { "item": "whole cloves", "quantity": 2, "unit": "pieces" },
+      { "item": "cinnamon stick", "quantity": 0.5, "unit": "piece" },
+      { "item": "black peppercorns", "quantity": 3, "unit": "pieces" },
+      { "item": "star anise", "quantity": 1, "unit": "piece", "notes": "optional" }
+    ],
+    "steps": [
+      { "text": "Lightly crush cardamom pods, cloves, peppercorns, and ginger using a mortar. You want them cracked, not ground." },
+      { "text": "Bring water to a boil in a small saucepan. Add all the spices, cinnamon, and star anise. Boil hard for 3 minutes.", "timerSec": 180 },
+      { "text": "Add tea and sugar. Boil for another 2 minutes, stirring occasionally. The water should look very dark.", "timerSec": 120 },
+      { "text": "Pour in the milk and bring back to a boil. Watch carefully — it can overflow. Simmer for 2–3 minutes until golden and fragrant.", "timerSec": 180 },
+      { "text": "Strain through a fine sieve into cups. Serve immediately, very hot." }
+    ],
+    "notes": {
+      "arnav": "You must let the tea boil — not just steep. That's what gives it body and colour.",
+      "ayushi": "I add a small piece of mulethi (liquorice root) for a subtly sweet, complex note."
+    },
+    "createdAt": "2024-04-01T10:00:00.000Z",
+    "updatedAt": "2024-04-01T10:00:00.000Z",
+    "cookedLog": [],
+    "rating": 5,
+    "makeAgain": true
+  },
+  {
+    "id": "8",
+    "slug": "palak-paneer",
+    "title": "Palak Paneer",
+    "description": "Creamy spinach gravy with golden-fried paneer cubes. Bright green, deeply flavoured, and nothing like the grey mush you get at most restaurants.",
+    "coverImage": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=800&q=80",
+    "cuisine": "Indian",
+    "dietTags": ["vegetarian", "gluten-free"],
+    "difficulty": "medium",
+    "spiceLevel": "mild",
+    "prepTimeMin": 15,
+    "cookTimeMin": 30,
+    "totalTimeMin": 45,
+    "servings": 4,
+    "ingredients": [
+      { "item": "fresh spinach (palak)", "quantity": 500, "unit": "g" },
+      { "item": "paneer", "quantity": 300, "unit": "g", "notes": "cut into 2cm cubes" },
+      { "item": "ghee or oil", "quantity": 3, "unit": "tbsp" },
+      { "item": "onion, roughly chopped", "quantity": 1, "unit": "large" },
+      { "item": "garlic cloves", "quantity": 5, "unit": "cloves" },
+      { "item": "fresh ginger", "quantity": 1, "unit": "inch" },
+      { "item": "green chillies", "quantity": 2, "unit": "pieces", "notes": "adjust heat" },
+      { "item": "tomato, chopped", "quantity": 1, "unit": "large" },
+      { "item": "cumin seeds", "quantity": 1, "unit": "tsp" },
+      { "item": "turmeric", "quantity": 0.5, "unit": "tsp" },
+      { "item": "garam masala", "quantity": 1, "unit": "tsp" },
+      { "item": "heavy cream", "quantity": 3, "unit": "tbsp", "notes": "plus more to drizzle" },
+      { "item": "salt", "quantity": 1.25, "unit": "tsp" }
+    ],
+    "steps": [
+      { "text": "Blanch spinach in boiling water for 2 minutes, then immediately transfer to ice water to stop cooking and preserve that brilliant green colour.", "timerSec": 120 },
+      { "text": "Blend the blanched spinach with green chillies until smooth. Set aside." },
+      { "text": "Shallow-fry paneer cubes in 1 tbsp ghee until golden on all sides. Remove and soak in warm salted water — this keeps them soft." },
+      { "text": "In the same pan, heat remaining ghee. Add cumin seeds and let them sizzle. Add onion, cook 8 minutes until golden.", "timerSec": 480 },
+      { "text": "Add garlic and ginger, cook 2 minutes. Add tomato and cook until mushy and oil separates, about 5 minutes.", "timerSec": 420 },
+      { "text": "Add turmeric and garam masala, stir for 30 seconds. Pour in the spinach purée and simmer for 5 minutes.", "timerSec": 300 },
+      { "text": "Drain paneer from water and add to the gravy. Add cream, stir, and simmer 3 more minutes. Season with salt.", "timerSec": 180 },
+      { "text": "Serve with a swirl of cream on top. Goes best with butter naan or parathas." }
+    ],
+    "notes": {
+      "arnav": "The ice water bath for the spinach is non-negotiable if you care about the colour.",
+      "ayushi": "I add a handful of fresh coriander to the spinach before blending — adds freshness."
+    },
+    "createdAt": "2024-04-10T10:00:00.000Z",
+    "updatedAt": "2024-04-10T10:00:00.000Z",
+    "cookedLog": [],
+    "rating": 4,
+    "makeAgain": true
+  },
+  {
+    "id": "9",
+    "slug": "spaghetti-aglio-e-olio",
+    "title": "Spaghetti Aglio e Olio",
+    "description": "Midnight pasta perfection — just garlic, good olive oil, chilli, and pasta water. Ready in 20 minutes. Vegan. Requires no shopping.",
+    "coverImage": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=800&q=80",
+    "cuisine": "Italian",
+    "dietTags": ["vegan", "dairy-free"],
+    "difficulty": "easy",
+    "spiceLevel": "medium",
+    "prepTimeMin": 5,
+    "cookTimeMin": 15,
+    "totalTimeMin": 20,
+    "servings": 2,
+    "ingredients": [
+      { "item": "spaghetti", "quantity": 200, "unit": "g" },
+      { "item": "extra-virgin olive oil", "quantity": 80, "unit": "ml", "notes": "use good quality — it's the main flavour" },
+      { "item": "garlic cloves, sliced paper-thin", "quantity": 6, "unit": "cloves" },
+      { "item": "dried chilli flakes", "quantity": 1, "unit": "tsp", "notes": "adjust heat" },
+      { "item": "flat-leaf parsley, roughly chopped", "quantity": 4, "unit": "tbsp" },
+      { "item": "salt", "quantity": 1, "unit": "tbsp", "notes": "for pasta water" },
+      { "item": "lemon zest", "quantity": 1, "unit": "tsp", "notes": "optional, but brightens everything" }
+    ],
+    "steps": [
+      { "text": "Bring a large pot of water to a rolling boil. Salt generously — it should taste like mild seawater. Add pasta and cook 2 minutes less than package directions." },
+      { "text": "While pasta cooks, warm olive oil in a wide pan over medium-low heat. Add garlic slices — they should sizzle gently, not aggressively. Cook for 4–5 minutes until golden and fragrant. Add chilli flakes for the last 30 seconds.", "timerSec": 300 },
+      { "text": "Reserve a large mug (about 250ml) of pasta water before draining." },
+      { "text": "Add drained pasta to the garlic oil. Pour in about 100ml pasta water and toss vigorously over medium heat. The starchy water and oil will emulsify into a glossy sauce that clings to every strand.", "timerSec": 120 },
+      { "text": "Remove from heat. Add parsley and lemon zest. Toss once more. Serve immediately in warm bowls." }
+    ],
+    "notes": {
+      "arnav": "The pasta water is the sauce — don't skip collecting it. More water = more sauce.",
+      "ayushi": "I add a handful of breadcrumbs toasted in olive oil on top. Adds incredible texture."
+    },
+    "createdAt": "2024-04-15T10:00:00.000Z",
+    "updatedAt": "2024-04-15T10:00:00.000Z",
+    "cookedLog": [
+      { "dateISO": "2024-04-16", "quickNote": "Midnight hunger. Perfect in 20 mins." }
+    ],
+    "rating": 4,
+    "makeAgain": true
+  },
+  {
+    "id": "10",
+    "slug": "classic-mojito",
+    "title": "Classic Mojito",
+    "description": "Mint, lime, rum, soda. The most refreshing drink in existence. The secret is bruising the mint gently — you want fragrance, not grass.",
+    "coverImage": "https://images.unsplash.com/photo-1551538827-9c037cb4f32a?w=800&q=80",
+    "cuisine": "Cuban",
+    "dietTags": ["vegan", "gluten-free", "dairy-free"],
+    "difficulty": "easy",
+    "spiceLevel": "mild",
+    "prepTimeMin": 5,
+    "cookTimeMin": 0,
+    "totalTimeMin": 5,
+    "servings": 1,
+    "ingredients": [
+      { "item": "white rum", "quantity": 60, "unit": "ml" },
+      { "item": "fresh lime juice", "quantity": 30, "unit": "ml", "notes": "about 1.5 limes" },
+      { "item": "sugar syrup (1:1)", "quantity": 20, "unit": "ml" },
+      { "item": "fresh mint leaves", "quantity": 12, "unit": "leaves", "notes": "plus a sprig to garnish" },
+      { "item": "soda water", "quantity": 100, "unit": "ml", "notes": "well chilled" },
+      { "item": "ice", "quantity": 1, "unit": "cup", "notes": "crushed if possible" }
+    ],
+    "steps": [
+      { "text": "Add mint leaves and sugar syrup to a highball glass. Muddle gently — press and twist 4–5 times. You want bruised mint that releases oils, not shredded mint that turns bitter." },
+      { "text": "Add lime juice and rum. Fill the glass with ice." },
+      { "text": "Top with chilled soda water. Stir briefly with a long spoon — just once or twice to combine." },
+      { "text": "Garnish with a mint sprig (slap it between your palms first to wake up the aroma) and a lime wheel. Serve immediately." }
+    ],
+    "notes": {
+      "arnav": "Never use a blender or over-muddle. Bitter mojitos are a crime.",
+      "ayushi": "Virgin version: skip the rum, add a splash of lime cordial. Still delicious."
+    },
+    "createdAt": "2024-05-01T10:00:00.000Z",
+    "updatedAt": "2024-05-01T10:00:00.000Z",
+    "cookedLog": [],
+    "rating": 5,
+    "makeAgain": true
+  }
+]

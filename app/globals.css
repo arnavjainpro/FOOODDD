@@ -1,0 +1,74 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 45 30% 98%;
+    --foreground: 20 14% 12%;
+    --card: 0 0% 100%;
+    --card-foreground: 20 14% 12%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 20 14% 12%;
+    --primary: 14 69% 47%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 40 20% 94%;
+    --secondary-foreground: 20 14% 25%;
+    --muted: 40 16% 92%;
+    --muted-foreground: 30 8% 46%;
+    --accent: 40 20% 94%;
+    --accent-foreground: 20 14% 25%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 35 20% 88%;
+    --input: 35 20% 88%;
+    --ring: 14 69% 47%;
+    --radius: 0.625rem;
+  }
+
+  .dark {
+    --background: 20 14% 8%;
+    --foreground: 40 14% 94%;
+    --card: 20 14% 11%;
+    --card-foreground: 40 14% 94%;
+    --popover: 20 14% 11%;
+    --popover-foreground: 40 14% 94%;
+    --primary: 14 69% 55%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 20 10% 18%;
+    --secondary-foreground: 40 14% 85%;
+    --muted: 20 10% 18%;
+    --muted-foreground: 30 8% 55%;
+    --accent: 20 10% 18%;
+    --accent-foreground: 40 14% 85%;
+    --destructive: 0 62% 48%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 20 10% 20%;
+    --input: 20 10% 20%;
+    --ring: 14 69% 55%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif;
+  }
+}
+
+@layer utilities {
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+}
