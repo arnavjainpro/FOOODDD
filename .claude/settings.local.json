@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(cd \"/Users/arnavjain/VS Code Projects/FOOODDD\" && npm test 2>&1)",
-      "Bash(cd \"/Users/arnavjain/VS Code Projects/FOOODDD\" && npm run build 2>&1)"
+      "Bash(cd \"/Users/arnavjain/VS Code Projects/FOOODDD\" && npm run build 2>&1)",
+      "Bash(cd \"/Users/arnavjain/VS Code Projects/FOOODDD\" && git push -u origin main 2>&1)"
     ]
   }
 }
